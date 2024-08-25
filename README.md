@@ -3,8 +3,7 @@
 <p align="center">
     <img src="https://github.com/perplexed-me/perplexed-me/blob/main/gg.gif" alt="Logo">
 </p>
-<h1 align="center">👋 Hi, This is Mohammad</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=perplexed-me&label=Profile%20views&color=0e75b6&style=flat" alt="perplexed-me" /> </p>
+
 
 
 
