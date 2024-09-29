@@ -8,16 +8,8 @@
 
 
 
-<h3 align="center">Languages and Tools:</h3>
+<h2 align="center">p3rpl3x3d_m3</h2>
 
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B" alt="C++">
-  <img src="https://img.shields.io/badge/-Java-000000?style=flat&logo=java" alt="Java">
-  <img src="https://img.shields.io/badge/-Python-000000?style=flat&logo=python" alt="Python">
-  <img src="https://img.shields.io/badge/-Javascript-000000?style=flat&logo=javascript" alt="JS">
-  <img src="https://img.shields.io/badge/-Oracle-000000?style=flat&logo=oracle" alt="Oracle">
-</p>
 
 
 
